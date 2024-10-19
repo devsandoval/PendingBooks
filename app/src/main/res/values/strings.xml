@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPendingBooks</string>
+    <string name="wellcome">Bienvenido</string>
+    <string name="wellcome_text">Bienvenido</string>
+    <string name="inicio_botton">INICIO</string>
+    <string name="trach_talk">Si estas aca es porque te falta leer... hazlo</string>
+</resources>
